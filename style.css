@@ -17,7 +17,7 @@ body {
   flex-direction: column;
   background-color: #336799;
   width: 200px;
-  height: 600px;
+  height: 690px;
 }
 .sidebar > a {
   text-decoration: none;
@@ -75,4 +75,23 @@ body {
   color: inherit; /* same color as text */
   text-decoration: none; /* remove underline */
   cursor: default; /* optional, no pointer cursor */
+}
+.cisferi {
+  color: #03fdffe0 !important;
+  font-size: 12px;
+}
+.margo{
+  margin-top: 50px;
+}
+.gela{
+  margin-top: 10px;
+}
+.tochka{
+  color: white !important;
+  margin-top: 18px;
+  cursor: pointer;
+}
+.sahovere:hover {
+  cursor: pointer;
+  text-decoration: underline;
 }
