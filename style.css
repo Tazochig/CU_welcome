@@ -68,4 +68,6 @@ body {
 }
 .style11{
   /* background-color: white; */
+  text-decoration: none;
+  cursor: unset;
 }
