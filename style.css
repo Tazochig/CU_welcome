@@ -17,7 +17,7 @@ body {
   flex-direction: column;
   background-color: #336799;
   width: 200px;
-  height: 690px;
+  height: 700px;
 }
 .sidebar > a {
   text-decoration: none;
