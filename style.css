@@ -49,7 +49,7 @@ body {
 .sidebar > a:hover {
   text-decoration: underline;
 }
-.navigacia{
+.navigacia {
   height: 155px;
   background-color: #336799;
   width: 800px;
@@ -66,8 +66,13 @@ body {
 .navigacia > a:hover {
   text-decoration: underline;
 }
-.style11{
+.style11 {
   /* background-color: white; */
   text-decoration: none;
   cursor: unset;
+}
+.no-link {
+  color: inherit; /* same color as text */
+  text-decoration: none; /* remove underline */
+  cursor: default; /* optional, no pointer cursor */
 }
